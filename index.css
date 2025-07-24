@@ -12,7 +12,7 @@ html, body {
 /* typography */
 
 h1{
-    font-size: 48px;
+    font-size: 3rem;
     line-height: 60px;
     font-weight: 900;
 }
@@ -22,13 +22,13 @@ h2{
 }
 
 h3{
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 700; 
     line-height: 30px;
 }
 
 p{
-    font-size: 18px;
+    font-size: 1.125rem;
     line-height: 28px;
 
 }
@@ -43,7 +43,7 @@ li{
     border-radius: 5px;
     margin-bottom: 12px;
     font-weight: 500;
-    font-size: 22px;
+    font-size: 1.375rem;
 }
 
 .li-green{background-color:#E5FDEA}
@@ -97,7 +97,7 @@ main{
 }
 
 .modal-close-btn {
-  font-size: 22px;
+  font-size: 1.375rem;
   font-weight: bold;
   background-color: transparent;
   border: 1px solid transparent;
